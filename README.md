@@ -8,4 +8,4 @@ This is a slightly tweaked version of [this script](https://discussions.apple.co
 
 I haven't put a licence on it since I don't know the licence of the original, and my modifications are too trivial to attract any kind of right I could license.
 
-Bear in mind that there is a limit on the file size of the config which the FireBrick can handle. I have added 300 contacts without a problem, but bearing this mind.
+Bear in mind that there is a limit on the file size of the config which the FireBrick can handle. I have added 300 contacts without a problem, but bear this mind if you have a huge address book.
