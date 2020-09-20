@@ -1,5 +1,8 @@
-# create_firebrick_directory_from_macOS_contacts
-Creates a text file of name/phone number pairings from macOS's Contacts application, for inclusion in the FireBrick's VoIP directory
+# Create a text file ready for importing into your FireBrick's VoIP directory function, from macOS Contacts
+
+Creates a text file of name/phone number pairings from macOS's Contacts application, for inclusion in the FireBrick's VoIP directory.
+
+This is of no use if you do not use both a FireBrick and macOS's Contacts.
 
 This is a slightly tweaked version of [this script](https://discussions.apple.com/thread/8384450).
 
